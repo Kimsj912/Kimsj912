@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto &reversal=true&height=400&section=header&text=I'm%20sujK&animation=fadeIn&fontSize=90&fontAlign=40&fontAlignY=50&desc=Hi~%20this%20is%20sujK's%20Github&descSize=30&descAlign=45&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&reversal=true&height=300&section=header&text=SujK's%20Github&animation=fadeIn&fontSize=80&fontAlign=50&fontAlignY=50&desc=김수정의%20깃헙입니다😊&descSize=20&descAlign=66&descAlignY=65)
 
 
 
