@@ -11,9 +11,9 @@
 <br><br><br><br><br>
 
 - ## 🔥 My Stat 🔥
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimsj912&show_icons=true&theme=Gradient)](https://github.com/Kimsj912/github-readme-stats)
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimsj912&show_icons=true&theme=Gradient)](https://github.com/Kimsj912/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwjd9912a)](https://solved.ac/tnwjd9912a)
+    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwjd9912a)](https://solved.ac/tnwjd9912a)
 
 - ## 🛠 Tech Stack 🛠
   - ### Front-end
