@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto &reversal=true&height=400&section=header&text=I'm%20sujK&animation=fadeIn&fontSize=90&fontAlign=40&fontAlignY=50&desc=Hi~%20this%20is%20sujK's%20Github&descSize=30&descAlign=45&descAlignY=65)
+
+
+
+
 ### Hi there 👋
+
 
 <!--
 **Kimsj912/Kimsj912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
