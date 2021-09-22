@@ -40,8 +40,6 @@
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6aad3d?logo=Spring&logoColor=white"/>
     <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
 
-  - ### ⚡ Running Projects
-
 <br><br>
 - ## 😎 If you wanna know me more 😎
     <a href="https://www.instagram.com/k_modify.1122/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" width="25px" height="25px"/></a> <a href="https://www.rocketpunch.com/@sujk912"><img src="https://image.rocketpunch.com/company/1/rocketpunch_logo_1543569694.png?s=400x400&t=inside" alt="Rocketpunch" width="25px" height="25px"/></a> <a href="https://codingjerk-diary.tistory.com/"><img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5a539919017800001.png" alt="Tistory" width="25px" height="25px"/></a>
