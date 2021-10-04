@@ -3,7 +3,7 @@
 # Contents
   1. [🛠 Tech Stack 🛠](#-tech-stack-)
   2. [🔥 My Stat 🔥](#-my-stat-)
-  3. [🌱 I’m currently learning 🌱](#-i’m-currently-learning-)
+  3. [🌱 I’m currently learning 🌱](#-i-m-currently-learning-)
   4. [😎 If you wanna know me more 😎](#-if-you-wanna-know-me-more-)
   5. [📫 Email 📫](#-email-)
 
