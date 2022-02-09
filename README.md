@@ -18,11 +18,9 @@
 
   - ### Back-end
     <img alt="Java" src="https://img.shields.io/badge/Java-e74b4b?logo=Java&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-15364e?logo=Python&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/Django-072d1e?logo=Django&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005e86?logo=MySQL&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-f7c52b?logo=Firebase&logoColor=white"/>
-    <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat&logo=Microsoft-Access&logoColor=white"/></a>
-    <img alt="Django" src="https://img.shields.io/badge/Django-072d1e?logo=Django&logoColor=white"/>
     
 <br><br>
 - ## 🔥 My Stat 🔥
@@ -47,3 +45,5 @@
     [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?logo=Gmail&logoColor=white&link=mailto:sujk912@gmail.com)](mailto:sujk912@gmail.com)
     [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white&link=mailto:tnwjd9912a@naver.com)](mailto:tnwjd9912a@naver.com)
     [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?logo=Outlook&logoColor=white&link=mailto:tnwjd9912a@mju.ac.kr)](mailto:tnwjd9912a@mju.ac.kr)
+    
+    
