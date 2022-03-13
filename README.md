@@ -15,12 +15,18 @@
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
+    <img alt="react" src="https://img.shields.io/badge/react-1572B6?logo=react&logoColor=white"/>
 
   - ### Back-end
     <img alt="Java" src="https://img.shields.io/badge/Java-e74b4b?logo=Java&logoColor=white"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-072d1e?logo=Django&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005e86?logo=MySQL&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-f7c52b?logo=Firebase&logoColor=white"/>
+  
+  - ### Mobile 
+    <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
+    <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
+
     
 <br><br>
 - ## 🔥 My Stat 🔥
@@ -31,8 +37,9 @@
 <br><br>
 - ## 🌱 I’m currently learning 🌱
   - ### 💡 Learning
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
+    <img alt="react" src="https://img.shields.io/badge/react-1572B6?logo=react&logoColor=white"/>
     <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
+    <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
 
 <br><br>
 - ## 😎 If you wanna know me more 😎
