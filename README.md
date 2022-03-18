@@ -38,9 +38,8 @@
 - ## 🌱 I’m currently learning 🌱
   - ### 💡 Learning
     <img alt="react" src="https://img.shields.io/badge/react-1572B6?logo=react&logoColor=white"/>
-    <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
     <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <br><br>
 - ## 😎 If you wanna know me more 😎
     - Instagram (DM) : <a href="https://www.instagram.com/k_modify.1122/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram" width="25px" height="25px"/></a> 
