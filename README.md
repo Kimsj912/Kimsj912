@@ -27,19 +27,18 @@
   
   - ### Mobile 
     <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
+    <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
 
   - ### Language
     <img alt="Java" src="https://img.shields.io/badge/Java-e74b4b?logo=Java&logoColor=white"/>
-   
-    
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+
 <br><br>
 - ## 🌱 I’m currently learning 🌱
   - ### 💡 Learning
     <img alt="react" src="https://img.shields.io/badge/react-1572B6?logo=react&logoColor=white"/>
-    <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/vue-3fb27f?style=flat-square&logo=vue&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
    
 <br><br>
 - ## 😎 If you wanna know me more 😎
