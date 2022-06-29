@@ -3,8 +3,7 @@
 # Contents
   1. [🔥 My Stat 🔥](#-my-stat-)
   2. [🛠 Tech Stack 🛠](#-tech-stack-)
-  3. [🌱 I’m currently learning 🌱](#-im-currently-learning-)
-  4. [😎 If you wanna know me more 😎](#-if-you-wanna-know-me-more-)
+  3. [😎 If you wanna know me more 😎](#-if-you-wanna-know-me-more-)
 
 <br><br>
 - ## 🔥 My Stat 🔥
