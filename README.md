@@ -15,31 +15,29 @@
     
 <br><br>
 - ## 🛠 Tech Stack 🛠
-  - ### Web Front-end
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"/>
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
+  ```Unchecked items are being actively learned```
+  - ### lang
+    - [x] `#java`
+    - [x] `#html5`
+    - [x] `#css3`
+    - [ ] `#javascript`
+    - [ ] `#typescript`
+    - [x] `#mysql`
 
-  - ### Web Back-end
-    <img alt="Django" src="https://img.shields.io/badge/Django-072d1e?logo=Django&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005e86?logo=MySQL&logoColor=white"/>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-f7c52b?logo=Firebase&logoColor=white"/>
-  
-  - ### Mobile 
-    <img alt="Android" src="https://img.shields.io/badge/Android-3bd480?logo=Android&logoColor=white"/>
-    <img alt="react-native" src="https://img.shields.io/badge/reactNative-1572B6?logo=react&logoColor=white"/>
+  - ### framework
+    - [ ] `#react`
+    - [x] `#firebase`
 
-  - ### Language
-    <img alt="Java" src="https://img.shields.io/badge/Java-e74b4b?logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+   - ### basically learned 
+     ```It is a level that can be implemented lightly, and the contents to be learned as a sub-priority```
+     - [ ] `#python`
+     - [ ] `#django`
+     - [ ] `#kotlin`
+     - [ ] `#android`    
+     - [ ] `#react-native`
+     - [ ] `#vue`
 
-<br><br>
-- ## 🌱 I’m currently learning 🌱
-  - ### 💡 Learning
-    <img alt="react" src="https://img.shields.io/badge/react-1572B6?logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vue-3fb27f?style=flat-square&logo=vue&logoColor=white"/> 
-   
+
 <br><br>
 - ## 😎 If you wanna know me more 😎
   | item | link|
