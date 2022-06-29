@@ -14,18 +14,18 @@
     
 <br><br>
 - ## 🛠 Tech Stack 🛠
-  ```Unchecked items are being actively learned```
+  ```Checked items are being actively learned```
   - ### lang
-    - [x] `#java`
-    - [x] `#html5`
-    - [x] `#css3`
-    - [ ] `#javascript`
-    - [ ] `#typescript`
-    - [x] `#mysql`
+    - [ ] `#java`
+    - [ ] `#html5`
+    - [ ] `#css3`
+    - [x] `#javascript`
+    - [x] `#typescript`
+    - [ ] `#mysql`
 
   - ### framework
-    - [ ] `#react`
-    - [x] `#firebase`
+    - [x] `#react`
+    - [ ] `#firebase`
 
    - ### basically learned 
      ```It is a level that can be implemented lightly, and the contents to be learned as a sub-priority```
