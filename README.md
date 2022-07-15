@@ -19,7 +19,6 @@
     - [ ] `#css3`
     - [x] `#javascript`
     - [x] `#typescript`
-    - [ ] `#mysql`
 
   - ### framework
     - [x] `#react`
@@ -33,6 +32,7 @@
      - [ ] `#android`    
      - [ ] `#react-native`
      - [ ] `#vue`
+     - [ ] `mysql`
 
 
 <br><br>
