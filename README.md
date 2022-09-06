@@ -11,6 +11,10 @@
     - `#firebase`
     - `#next`
 
+- ## Stat
+    [![sujk's github stats](https://github-readme-stats.vercel.app/api?username=Kimsj912&show_icons=true&theme=Gradient)](https://github.com/Kimsj912/github-readme-stats)
+    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwjd9912a)](https://solved.ac/tnwjd9912a)
+    
 
 <br><br>
 - ## About Me
