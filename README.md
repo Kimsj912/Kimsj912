@@ -7,6 +7,7 @@
     - `#typescript`
 
   - ### framework
+    - `#vue3`
     - `#react`
     - `#firebase`
     - `#next`
